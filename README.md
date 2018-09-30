@@ -1,6 +1,8 @@
 Django Channels Tutorial
 ========================
 
+- https://channels.readthedocs.io/en/latest/tutorial/index.html
+
 Getting Started
 ---------------
 
